@@ -1,11 +1,4 @@
-.mask{
-    width: 100%;
-    height: 100vh;
-    position: relative;
-    background:url(https://github.com/judygab/web-dev-projects/blob/main/personal-portfolio/src/assets/img/banner-bg.png?raw=true);
-    animation: gradient 5s ease infinite;
-    color:white;
-}
+
 
 .into-img{
     width: 100%;

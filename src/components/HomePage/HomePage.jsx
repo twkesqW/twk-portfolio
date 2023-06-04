@@ -13,7 +13,7 @@ const HeroImg = () => {
         <h1 className="animate__animated animate__fadeInDown  animate__delay-1s animate__slow">HI! I'm Freelancer.</h1>
         <h3>I'm <strong>Frontend </strong>Developer</h3>
         <div className="btns">
-          <Link to="/myskills" className="btn">My Skills</Link>
+          <Link to="/my_skills" className="btn">My Skills</Link>
           <Link to="/contact" className="btn">Contact</Link>
         </div>
 

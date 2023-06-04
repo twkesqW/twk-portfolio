@@ -38,7 +38,7 @@
     display: flex;
     justify-content: center;
     gap:40px;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .input_text{
@@ -133,5 +133,4 @@ textarea{
     width:100%;
     transition:800ms ease all;
   }
-  
   

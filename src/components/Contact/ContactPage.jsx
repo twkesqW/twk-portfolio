@@ -9,17 +9,14 @@ const ContactPage = () => {
           <h2>Contact me!</h2>
             <div className="input_name_sur">
                 <div className="input_name">
-                    <h4 className="input_text">Name</h4>
-                    <input className='input_style'type="text" placeholder='Name....'/>
+                    <h4 className="input_text">Name and Surname</h4>
+                    <input className='input_style'type="text" placeholder='Max Zavodniuk....'/>
                 </div>
-                <div className="input_surname">
-                  <h4 className="input_text">Surname</h4>
-                  <input className='input_style' type="text" placeholder='Surname....'/>
-                </div>
+                
             </div>
 
             <div className="input_email">
-              <h4 className="input_text">Surname</h4>
+              <h4 className="input_text">Email</h4>
               <input className='input_style' type="text" placeholder='abc@gmail.com'/>
             </div>
 

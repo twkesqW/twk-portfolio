@@ -5,8 +5,7 @@ const ContactPage = () => {
     <div className='contact_page'>
         <div className='mask'></div>
         <div className='cont_content'>
-          <h1>Interested in me?</h1>
-          <h2>Contact me!</h2>
+          <h1>Contact me!</h1>
             <div className="input_name_sur">
                 <div className="input_name">
                     <h4 className="input_text">Name and Surname</h4>

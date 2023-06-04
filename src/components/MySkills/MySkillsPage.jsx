@@ -8,7 +8,7 @@ const MySkillsPage = () => {
 
         <div className="skills_content">
           <div className="frontend_skills skills_container">
-            <h1>Frontend</h1>
+            <h1>I'm know:</h1>
               <ul className="skills_list">
                 <li>HTML5</li>
                 <li>CSS3</li>
@@ -16,10 +16,17 @@ const MySkillsPage = () => {
                 <li>Bootstrap4,5</li>
                 <li>Tailwind.css</li>
                 <li>React.js</li>
+                <li>Redux</li>
+                <li>JQuery</li>
+                <li>Git and GitHub</li>
+                <li>RestAPI</li>
+                <li>SASS and Less</li>
+                <li>TypeScript</li>
+
               </ul>
           </div>
 
-          <div className="backend_skills skills_container">
+          {/* <div className="backend_skills skills_container">
               <h1>Backend</h1>
                 <ul className="skills_list">
                   <li>Django</li>
@@ -27,7 +34,7 @@ const MySkillsPage = () => {
                   <li>Flask</li>
                   <li>Express</li>
                 </ul>
-            </div>
+            </div> */}
         </div>
     </div>
   )

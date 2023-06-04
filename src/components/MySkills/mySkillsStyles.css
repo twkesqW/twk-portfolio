@@ -41,7 +41,7 @@
 }
 
 .skills_list li {
-  margin: 20px 0;
+  margin: 10px 0;
   font-weight: bold;
 
 }
@@ -51,21 +51,5 @@
     .skills_container{
         width: 250px;
         height: 450px;
-    }
-}
-
-@media screen and (max-width:570px) {
-    .skills_content{
-        flex-direction: column;
-        margin-top: 30px;
-    }
-
-    .skills_container{
-        height: 350px;
-        padding-bottom: 20px;
-    }
-
-    .skills_container h1{
-        margin-top: 40px;
     }
 }

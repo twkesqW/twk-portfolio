@@ -24,11 +24,9 @@
     align-items: center;
 }
 
-.cont_content h1{
-    margin-bottom: 5px;
-}
 
-.cont_content h2{
+
+.cont_content h1{
     margin-bottom: 20px;
     color:violet;
     text-shadow: violet 1px 0 10px;;
